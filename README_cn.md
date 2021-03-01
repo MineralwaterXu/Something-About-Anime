@@ -1,6 +1,4 @@
-# Something-About-Anime
-
-[中文版](./README_cn.md)
+# 动画相关
 
 [常用网站](./常用网站.md)
 
