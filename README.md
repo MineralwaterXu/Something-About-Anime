@@ -1,5 +1,7 @@
 # 动画相关
 
+[README.md in English](./README_en.md)
+
 ## [常用网站](./中文版/常用网站.md)
 
 ## [入门资料](./中文版/入门资料.md)
