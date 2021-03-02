@@ -2,10 +2,10 @@
 
 [中文版](./README_cn.md)
 
-[常用网站](./常用网站.md)
+## [Frequently-Used Websites](./English-Version/Frequently-Used-Websites.md)
 
-[入门资料](./入门资料.md)
+## [Materials for Newbies](./English-Version/Materials-for-Newbies.md)
 
-[社交媒体](./社交媒体.md)
+## [Related Accounts on Social Media](./English-Version/Related-Accounts-on-Social-Media.md)
 
-[书籍杂志](./书籍杂志.md)
+## [Books and Magazines](./English-Version/Books-and-Magazines.md)
