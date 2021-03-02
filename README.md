@@ -1,11 +1,9 @@
-# Something-About-Anime
+# 动画相关
 
-[中文版](./README_cn.md)
+## [常用网站](./中文版/常用网站.md)
 
-## [Frequently-Used Websites](./English-Version/Frequently-Used-Websites.md)
+## [入门资料](./中文版/入门资料.md)
 
-## [Materials for Newbies](./English-Version/Materials-for-Newbies.md)
+## [社交媒体](./中文版/社交媒体.md)
 
-## [Related Accounts on Social Media](./English-Version/Related-Accounts-on-Social-Media.md)
-
-## [Books and Magazines](./English-Version/Books-and-Magazines.md)
+## [书籍杂志](./中文版/书籍杂志.md)
