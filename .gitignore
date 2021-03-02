@@ -5,6 +5,6 @@
 # ... but these:
 !*.md
 !.gitignore
-!/English\ Version/
+!/English-Version/
 !/中文版/
 
