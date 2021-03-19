@@ -6,7 +6,7 @@
   - [https://vonxxghost.xyz/post/2019-09-15-tv动画staff表解读指南ver2.0/](https://vonxxghost.xyz/post/2019-09-15-tv%E5%8A%A8%E7%94%BBstaff%E8%A1%A8%E8%A7%A3%E8%AF%BB%E6%8C%87%E5%8D%97ver2.0/)
   - https://zhuanlan.zhihu.com/p/82574687
 - Sakuga Basic Explanation Complete Version (by nbht) (Chinese): https://www.bilibili.com/video/BV17s411D75e
-- (Sakuga Enthusiasts Prepare v2.99 beta) (by nbht) (Chinese): https://zhuanlan.zhihu.com/p/20584724
+- Sakuga Enthusiasts Prepare v2.99 beta (by nbht) (Chinese): https://zhuanlan.zhihu.com/p/20584724
 - Kyoto Animation Sakuga Manual
   - Scan (Japanese) : E-hentai: Kyoto Animation Sakuga no Tebiki (1742175/c2b6c364f9)
   - Chinese Translation
