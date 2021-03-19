@@ -1,4 +1,4 @@
-# Summary of information and sources
+# Summary of Information and Sources
 
 ## 1. Sources
 
