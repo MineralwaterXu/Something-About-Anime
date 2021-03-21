@@ -31,3 +31,9 @@ This chart primarily collects the Social Media Accounts, which are "Personal Ani
 This chart primarily collects the text information, which is Anime-Related.
 
 [Google Docs: Anime-Related Text Information](https://docs.google.com/spreadsheets/d/1dujxXuQWVvnekL6UXvO4iEWbDR7uMVPn3b4lzLd8V7A/edit?usp=sharing)
+
+### 2.2 Video Materials
+
+This chart primarily collects the video materials, which is Anime-Related.
+
+[Google Docs: Anime-Related Video Materials](https://docs.google.com/spreadsheets/d/1Ma5A4IrOIgdZu7DyTB9OqIxuO3682D4DGxQheRcQVSw/edit?usp=sharing)
