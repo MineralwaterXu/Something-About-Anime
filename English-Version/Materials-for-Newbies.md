@@ -31,3 +31,5 @@
     - Introduction of "Innocence METHODS 押井守演出ノート" (Anitama) (Chinese): http://www.anitama.cn/series/253
   - 「パトレイバー2」/ (Patlabors The Movie 2)
     - Scan (Japanese) : E-Hentai: Methods - From Layouts of "Patlabors The Movie 2" (1762046/d259b1dc00)
+- [Veterans Keep Out] From Zero: Learning Something about Anime (Chinese): https://bbs.saraba1st.com/2b/forum.php?mod=viewthread&tid=1745772
+
